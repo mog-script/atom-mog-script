@@ -1,13 +1,13 @@
 '.source.js':
   'function':
-    'prefix': 'f.'
+    'prefix': 'f-'
     'body': '⚙️ $1 ($2) {$3}'
   'const':
-    'prefix': 'c.'
+    'prefix': 'c-'
     'body': '💎 $1 = $2'
   'import':
-    'prefix': 'i.'
+    'prefix': 'i-'
     'body': '📦 $1 👈 \'$2\''
   'export':
-    'prefix': 'e.'
+    'prefix': 'e-'
     'body': '🎁 '
