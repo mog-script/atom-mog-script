@@ -11,7 +11,7 @@
       "mog-script-snippets:toKeywords"
     ]
   },
-  "repository": "https://github.com/atom/mog-script-snippets",
+  "repository": "https://github.com/mog-script/atom-mog-script-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
