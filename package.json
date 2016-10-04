@@ -1,0 +1,22 @@
+{
+  "name": "mog-script-snippets",
+  "main": "./lib/mog-script-snippets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "mog-script-snippets:toEmoji",
+      "mog-script-snippets:toKeywords"
+    ]
+  },
+  "repository": "https://github.com/atom/mog-script-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mog-script": "latest"
+  }
+}

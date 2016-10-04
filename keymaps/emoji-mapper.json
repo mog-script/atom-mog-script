@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-e": "mog-script-snippets:toEmoji",
+    "ctrl-alt-k": "mog-script-snippets:toKeywords"
+  }
+}

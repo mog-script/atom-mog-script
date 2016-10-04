@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      { "type": "separator" },
+      {
+        "label": "M.O.G. compile",
+        "command": "mog-script-snippets:toEmoji"
+      }, {
+        "label": "M.O.G. decompile",
+        "command": "mog-script-snippets:toKeywords"
+      },
+      { "type": "separator" }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "M.O.G. script",
+          "submenu": [
+            {
+              "label": "Compile",
+              "command": "mog-script-snippets:toEmoji"
+            }, {
+              "label": "Decompile",
+              "command": "mog-script-snippets:toKeywords"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
