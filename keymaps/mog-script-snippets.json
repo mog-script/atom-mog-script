@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor:not([mini])": {
     "ctrl-alt-e": "mog-script-snippets:toEmoji",
     "ctrl-alt-k": "mog-script-snippets:toKeywords"
   }
