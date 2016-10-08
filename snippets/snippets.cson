@@ -1,13 +1,82 @@
 '.source.js':
-  'function':
-    'prefix': 'f-'
-    'body': '⚙️ $1 ($2) {$3}'
+  'break':
+    'prefix': 'break-'
+    'body': '⚡️'
+  'case':
+    'prefix': 'case-'
+    'body': '💼 $1 :\n\t$2\n\t⚡️\n$3'
+  'catch':
+    'prefix': 'catch-'
+    'body': '🙉'
   'const':
     'prefix': 'c-'
     'body': '💎 $1 = $2'
-  'import':
-    'prefix': 'i-'
-    'body': '📦 $1 👈 \'$2\''
+  'debugger':
+    'prefix': 'deb-'
+    'body': '🚧'
+  'default':
+    'prefix': 'def-'
+    'body': '⭐️'
+  'delete':
+    'prefix': 'del-'
+    'body': '⛔️'
+  'else':
+    'prefix': 'else-'
+    'body': '❗️'
   'export':
-    'prefix': 'e-'
+    'prefix': 'exp-'
+    'body': '🛳 '
+  'export-default':
+    'prefix': 'expdef-'
+    'body': '🛳 ⭐️ ⚙️ $1 ($2) {$3}\n$4'
+  'false':
+    'prefix': 'false-'
+    'body': '💔'
+  'for':
+    'prefix': 'for-'
+    'body': '🌀 ($1; $2; $3) {\n\t$4\n}\n$5'
+  'from':
+    'prefix': 'from-'
+    'body': '👈'
+  'function':
+    'prefix': 'f-'
+    'body': '⚙️ $1 ($2) {$3}\n$4'
+  'if':
+    'prefix': 'if-'
+    'body': '❓ ($1) {\n\t$2\n}\n$3'
+  'if-else':
+    'prefix': 'ife-'
+    'body': '❓ ($1) {\n\t$2\n} ❗️ {\n\t$3\n}\n$5'
+  'if-else-if':
+    'prefix': 'ifeif-'
+    'body': '❓ ($1) {\n\t$2\n} ❗️ ❓ {\n\t$3\n} ❗️ {\n\t$4\n}\n$5'
+  'import':
+    'prefix': 'imp-'
+    'body': '📦 $1 👈 \'$2\''
+  'instanceof':
+    'prefix': 'instanceof-'
+    'body': '👶'
+  'new':
+    'prefix': 'new-'
+    'body': '✨ '
+  'return1':
+    'prefix': 'r-'
     'body': '🎁 '
+  'return2':
+    'prefix': 'return-'
+    'body': '🎁 '
+  'switch':
+    'prefix': 'sw-'
+    'body': '🚦 ($1) {\n\t💼 $2 :\n\t\t$3\n\t\t⚡️\n\t⭐️:\n\t\t$4\n}\n$5'
+  'throw':
+    'prefix': 'throw-'
+    'body': '💥'
+  'true':
+    'prefix': 'true-'
+    'body': '💗'
+  'try':
+    'prefix': 'try-'
+    'body': '🙊 {\n\t$1\n} 🙉 ($2) {\n\t$3\n}\n$4'
+  'while':
+    'prefix': 'while-'
+    'body': '👀 ($1) {\n\t$2\n}\n$3'
