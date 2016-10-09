@@ -1,19 +1,20 @@
-# M.O.G. Script snippets 🎉
+# M.O.G. Script 🎉
 
-Emojis are all around us and so the fun can grow! 😀 🍾 Have fun!
+Emojis all around us and so the fun can grow! 😀 🍾 🎉
 
-- Convert the JavaScript keywords in your code to emojis.
+- Convert the JavaScript keywords in your code into emojis.
 - Write faster emojified code using the predefined snippets.
 - Add this [webpack loader](https://github.com/mog-script/mog-script-loader) to your configuration and let the emojis live in your project, the loader will transpile them back to standard JavaScript.
 
-🚨 DISCLAMER: Do not use this package on production code! We are not responsible if your boss or colleagues gets 😱 angry 😡 when they see emojis in your JS code 😀 🙃
+🚨 DISCLAMER  
+Do not use this package on production code! We are not responsible if your boss or colleagues gets 😱 angry 😡 when they see emojis in your JS code 😀 🙃
 
-### main gif
+![mog-script-snippets-example](_images/mog-script-snippets-example.gif)
 
 ## Customize ⚙️
 Setup the JS keywords to emoji mapping as you prefer using the package configuration
 
-### customize gif
+![mog-script-snippets-config](_images/mog-script-snippets-config.gif)
 
 ## Installation 💾
 ```
