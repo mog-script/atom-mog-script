@@ -8,6 +8,9 @@
   'catch':
     'prefix': 'catch-'
     'body': '🙉'
+  'class':
+    'prefix': 'class-'
+    'body': '💩 $1 {\n\tconstructor ($2) {\n\t\t$3\n\t}\n}\n$4'
   'const':
     'prefix': 'c-'
     'body': '💎 $1 = $2'
