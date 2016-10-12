@@ -1,7 +1,7 @@
 {
   "name": "mog-script-snippets",
   "main": "./lib/mog-script-snippets",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "M.O.G. Script - Emojify your JavaScript code",
   "keywords": [
     "emoji",
