@@ -7,7 +7,7 @@ Emojis all around us and so the fun can grow! 😀 🍾 🎉
 - Add this [webpack loader](https://github.com/mog-script/mog-script-loader) to your configuration and let the emojis live in your project, the loader will transpile them back to standard JavaScript.
 
 
-![mog-script-snippets-example](_images/mog-script-snippets-example.gif)
+![mog-script-snippets-example](https://raw.githubusercontent.com/mog-script/atom-mog-script-snippets/master/_images/mog-script-snippets-example.gif)
 
 
 ## Installation 💾
