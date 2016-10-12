@@ -1,9 +1,12 @@
 {
   "name": "mog-script-snippets",
   "main": "./lib/mog-script-snippets",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "M.O.G. Script - Emojify your JavaScript code",
-  "keywords": [ "emoji", "javascript" ],
+  "keywords": [
+    "emoji",
+    "javascript"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "mog-script-snippets:toEmoji",
