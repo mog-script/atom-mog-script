@@ -1,4 +1,4 @@
-'.source.js':
+'*':
   'break':
     'prefix': 'break-'
     'body': '⚡️'
