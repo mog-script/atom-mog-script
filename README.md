@@ -19,32 +19,32 @@ apm install mog-script-snippets
 
 ### Keywords map
 
-| Keyword       | Emoji |
-| ------------- |:-----:|
-| break         |   ⚡️  |
-| case          |   💼  |
-| catch         |   🙉  |
-| class         |   💩  |
-| const         |   💎  |
-| debugger      |   🚧  |
-| default       |   ⭐️  |
-| delete        |   ⛔️  |
-| else          |   ❗️  |
-| export        |   🛳  |
-| false         |   💔  |
-| for           |   🌀  |
-| from          |   👈  |
-| function      |   ⚙️  |
-| if            |   ❓  |
-| import        |   📦  |
-| instanceof    |   👶  |
-| new           |   ✨  |
-| return        |   🎁  |
-| switch        |   🚦  |
-| throw         |   💥  |
-| true          |   💗  |
-| try           |   🙊  |
-| while         |   👀  |
+| Keyword       | Emoji | Snippet             |
+| ------------- |:-----:|:-------------------:|
+| break         |   ⚡️  | break-              |
+| case          |   💼  | case-               |
+| catch         |   🙉  | catch-              |
+| class         |   💩  | class-              |
+| const         |   💎  | c-                  |
+| debugger      |   🚧  | deb-                |
+| default       |   ⭐️  | def-                |
+| delete        |   ⛔️  | del-                |
+| else          |   ❗️  | else-               |
+| export        |   🛳  | exp- ; expdef-      |
+| false         |   💔  | false-              |
+| for           |   🌀  | for-                |
+| from          |   👈  | from-               |
+| function      |   ⚙️  | f-                  |
+| if            |   ❓  | if- ; ife- ; ifeif- |
+| import        |   📦  | imp-                |
+| instanceof    |   👶  | instaneof-          |
+| new           |   ✨  | new-                |
+| return        |   🎁  | r-                  |
+| switch        |   🚦  | sw-                 |
+| throw         |   💥  | throw-              |
+| true          |   💗  | true-               |
+| try           |   🙊  | try-                |
+| while         |   👀  | while-              |
 
 
 ### Keybindings
